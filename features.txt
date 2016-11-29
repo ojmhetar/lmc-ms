@@ -1,0 +1,11 @@
+A tool for first responders that uses social media and other data sources to provide solutions as to where to 
+
+1) where to deliver supplies
+
+2) what supplies to deliver 
+
+3) which routes seem to be clear 
+
+4) track refugees? 
+
+
